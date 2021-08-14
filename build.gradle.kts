@@ -23,4 +23,5 @@ configure<BukkitPluginDescription> {
     main = "dev.s7a.GSitPlayerMountFix.Main"
     apiVersion = "1.17"
     author = "sya_ri"
+    depend = listOf("GSit")
 }
